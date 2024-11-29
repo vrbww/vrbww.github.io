@@ -229,7 +229,6 @@ h3 {
 .hero__links {
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
 }
 
 .hero__link1 {
